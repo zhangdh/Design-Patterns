@@ -7,5 +7,4 @@ public class Source implements Sourcable{
 		// TODO Auto-generated method stub
 		System.out.println("原类的方法");
 	}
-
 }

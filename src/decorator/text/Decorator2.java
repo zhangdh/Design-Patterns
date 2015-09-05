@@ -15,5 +15,4 @@ private Sourcable source ;
 		source.operation();
 		System.out.println("装饰器2 ，调用原有方法后");
 	}
-
 }

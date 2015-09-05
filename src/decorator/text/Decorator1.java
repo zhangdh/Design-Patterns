@@ -15,5 +15,4 @@ public class Decorator1 implements Sourcable{
 		source.operation();
 		System.out.println("装饰器1 ，调用原有方法后");
 	}
-
 }
